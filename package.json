@@ -28,7 +28,7 @@
         "focus-visible": "^5.1.0",
         "graphql": "^14.6.0",
         "graphql-tag": "^2.10.3",
-        "hdkey": "^1.1.1",
+        "hdkey": "^2.0.0",
         "js-file-download": "^0.4.11",
         "register-service-worker": "^1.6.2",
         "sha256": "^0.2.0",
