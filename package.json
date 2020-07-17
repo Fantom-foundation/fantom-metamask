@@ -47,7 +47,7 @@
         "vue-timeago": "^5.1.2",
         "vuex": "^3.4.0",
         "vuex-persist": "^2.2.0",
-        "web3": "^1.2.6"
+        "web3": "^1.2.10"
     },
     "devDependencies": {
         "@ledgerhq/hw-transport-webusb": "^5.13.1",
