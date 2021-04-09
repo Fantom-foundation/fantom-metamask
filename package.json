@@ -44,7 +44,7 @@
         "vue": "^2.6.11",
         "vue-apollo": "^3.0.4",
         "vue-async-computed": "^3.8.2",
-        "vue-i18n": "^8.18.2",
+        "vue-i18n": "^8.24.3",
         "vue-observe-visibility": "^0.4.6",
         "vue-qrcode-component": "^2.1.1",
         "vue-router": "^3.3.4",
