@@ -37,7 +37,7 @@
         "graphql": "^14.6.0",
         "graphql-tag": "^2.10.3",
         "hdkey": "^2.0.1",
-        "js-file-download": "^0.4.11",
+        "js-file-download": "^0.4.12",
         "lightweight-charts": "^3.2.0",
         "register-service-worker": "^1.6.2",
         "sha256": "^0.2.0",
