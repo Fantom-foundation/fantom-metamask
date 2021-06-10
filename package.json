@@ -50,7 +50,7 @@
         "vue-observe-visibility": "^0.4.6",
         "vue-qrcode-component": "^2.1.1",
         "vue-router": "^3.3.4",
-        "vue-spinner": "^1.0.3",
+        "vue-spinner": "^1.0.4",
         "vue-svgicon": "^4.0.0-alpha.3",
         "vue-timeago": "^5.1.2",
         "vuex": "^3.4.0",
