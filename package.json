@@ -34,7 +34,7 @@
         "ethereumjs-util": "^7.0.3",
         "fantom-ledgerjs": "file:Fantom_LedgerJS",
         "focus-visible": "^5.1.0",
-        "graphql": "^14.6.0",
+        "graphql": "^15.5.1",
         "graphql-tag": "^2.10.3",
         "hdkey": "^2.0.1",
         "js-file-download": "^0.4.11",
