@@ -35,7 +35,7 @@
         "fantom-ledgerjs": "file:Fantom_LedgerJS",
         "focus-visible": "^5.1.0",
         "graphql": "^14.6.0",
-        "graphql-tag": "^2.10.3",
+        "graphql-tag": "^2.12.5",
         "hdkey": "^2.0.1",
         "js-file-download": "^0.4.11",
         "lightweight-charts": "^3.2.0",
