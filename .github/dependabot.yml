@@ -1,0 +1,34 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: "@ledgerhq/hw-transport-webusb"
+    versions:
+    - 5.41.0
+    - 5.43.0
+    - 5.45.0
+    - 5.46.0
+    - 5.48.0
+    - 5.49.0
+  - dependency-name: vue-i18n
+    versions:
+    - 8.22.4
+    - 8.23.0
+    - 8.24.0
+    - 8.24.1
+    - 8.24.2
+    - 8.24.3
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+  - dependency-name: sass
+    versions:
+    - 1.32.5
+    - 1.32.6
+    - 1.32.7
+    - 1.32.8
