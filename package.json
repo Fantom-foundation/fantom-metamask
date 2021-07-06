@@ -29,7 +29,7 @@
         "bip39": "^3.0.2",
         "copy-to-clipboard": "^3.3.1",
         "core-js": "^3.6.5",
-        "dayjs": "^1.8.28",
+        "dayjs": "^1.10.6",
         "eslint": "^6.8.0",
         "ethereumjs-util": "^7.0.3",
         "fantom-ledgerjs": "file:Fantom_LedgerJS",
